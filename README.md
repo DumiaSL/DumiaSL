@@ -4,9 +4,7 @@
 
 <p align="center">
   “Copy-and-Paste was programmed by programmers for programmers actually.” <br><br>
-  <a href="https://github.com/arthurspk/guiadevbrasil">
-    <img src="./images/guia.png" alt="Guia Extenso de Programação" width="160" height="160">
-  </a>
+  ![guia](https://user-images.githubusercontent.com/90560618/227777631-7a6e36c6-8259-4d98-b727-f28c5f36e652.png)
   <h1 align="center">Guia Extenso de Programação</h1>
 </p>
 
