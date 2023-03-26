@@ -1,6 +1,14 @@
 
 # 💫 About Me:
-“Copy-and-Paste was programmed by programmers for programmers actually.” <br><br>
+
+
+<p align="center">
+  “Copy-and-Paste was programmed by programmers for programmers actually.” <br><br>
+  <a href="https://github.com/arthurspk/guiadevbrasil">
+    <img src="./images/guia.png" alt="Guia Extenso de Programação" width="160" height="160">
+  </a>
+  <h1 align="center">Guia Extenso de Programação</h1>
+</p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
