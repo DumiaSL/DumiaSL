@@ -7,6 +7,8 @@
   ![guia](https://user-images.githubusercontent.com/90560618/227777631-7a6e36c6-8259-4d98-b727-f28c5f36e652.png)
   <h1 align="center">Guia Extenso de Programação</h1>
 </p>
+![guia](https://user-images.githubusercontent.com/90560618/227777631-7a6e36c6-8259-4d98-b727-f28c5f36e652.png)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
